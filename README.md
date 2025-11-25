@@ -16,7 +16,7 @@ PORT=8081 http-server dist --cors -c-1
 
 You can test this example add-on by adding the GitHub Pages URL:
 
-`https://bdxpq.github.io/manifest.json`
+[https://bdxpq.github.io/manifest.json](https://bdxpq.github.io/manifest.json)
 
 as the [Add-on Repository URL](https://github.com/bdxpq/bdxpq.github.io/blob/main//README.md#dont-know-where-to-add-the-add-on-repository-url)
 
