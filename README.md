@@ -2,6 +2,9 @@
 
 This repository is an example of static add-ons for Stremio.
 
+## Install
+[Web](https://web.stremio.com/#/addons?addon=https://pnxg.github.io/manifest.json)
+
 ## Testing locally
 
 When testing locally, you can use a local server, but it's really important that you set the cache times to very low values (or 0) so that caching does not interfere with your development. Enabling CORS is also needed.
